@@ -1,0 +1,46 @@
+[
+  {
+    "model": "profiles.desafio",
+    "pk": 1,
+    "fields": {
+      "titulo": "El Más Rápido",
+      "tiempo": "00:00:00"
+    }
+  },
+  {
+    "model": "profiles.desafio",
+    "pk": 2,
+    "fields": {
+      "titulo": "¿Reconoces estas Imágenes?",
+      "tiempo": "00:00:00"
+    }
+  },
+
+  {
+    "model": "profiles.medalla",
+    "pk": 1,
+    "fields": {
+      "title": "Medalla Bronce",
+      "image": "medallas/medalla_bronce.png",
+      "puntos": 10
+    }
+  },
+  {
+    "model": "profiles.medalla",
+    "pk": 2,
+    "fields": {
+      "title": "Medalla Plata",
+      "image": "medallas/medalla_plata.png",
+      "puntos": 25
+    }
+  },
+  {
+    "model": "profiles.medalla",
+    "pk": 3,
+    "fields": {
+      "title": "Medalla Oro",
+      "image": "medallas/medalla_oro.png",
+      "puntos": 50
+    }
+  }
+]

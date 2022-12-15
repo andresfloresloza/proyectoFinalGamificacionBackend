@@ -1,0 +1,492 @@
+[
+  {
+    "model": "profiles.preguntareto2",
+    "pk": 1,
+    "fields": {
+      "pregunta": "¿Qué cultura construyó la Puerta del Sol?",
+      "image": "preguntas/puertaDelSol.png",
+      "respuestaCorrecta": "Cultura Tiahuanacota",
+      "respuestaIncorrecta1": "Cultura Quechua",
+      "respuestaIncorrecta2": "Cultura Aimara",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 1
+    }
+  },
+  {
+    "model": "profiles.preguntareto2",
+    "pk": 2,
+    "fields": {
+      "pregunta": "Wiracocha era el Dios de:",
+      "image": "preguntas/wiracocha.png",
+      "respuestaCorrecta": "Los Tiahuanacotas",
+      "respuestaIncorrecta1": "Los Aimaras",
+      "respuestaIncorrecta2": "Los Quechuas",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 1
+    }
+  },
+  {
+    "model": "profiles.preguntareto2",
+    "pk": 3,
+    "fields": {
+      "pregunta": "¿Dónde esta ubicado la Puerta del Sol de la Cultura Tiahuanacota?",
+      "image": "preguntas/puertaDelSol.png",
+      "respuestaCorrecta": "Lago Titicaca - La Paz",
+      "respuestaIncorrecta1": "Lago Uru Uru - Oruro",
+      "respuestaIncorrecta2": "Lago Rogaguado - Beni",
+      "respuestaIncorrecta3": "Lago  Poopó - Oruro",
+      "puntos": 100,
+      "tema_id": 1
+    }
+  },
+  {
+    "model": "profiles.preguntareto2",
+    "pk": 4,
+    "fields": {
+      "pregunta": "¿Quién es este personaje?",
+      "image": "preguntas/franciscoPizarro.png",
+      "respuestaCorrecta": "Francisco Pizarro",
+      "respuestaIncorrecta1": "Hernán Cortés",
+      "respuestaIncorrecta2": "Diego de Almagro",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 2
+    }
+  },
+  {
+    "model": "profiles.preguntareto2",
+    "pk": 5,
+    "fields": {
+      "pregunta": "¿Qué Inca fue desmembrado por caballos?",
+      "image": "preguntas/tupakAmaru.jpg",
+      "respuestaCorrecta": "Tupak Amaru",
+      "respuestaIncorrecta1": "Tupak Katari",
+      "respuestaIncorrecta2": "Atahualpa",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 2
+    }
+  },
+  {
+    "model": "profiles.preguntareto2",
+    "pk": 6,
+    "fields": {
+      "pregunta": "¿Qué inca fue decapitado durante la conquista del Imperio Inca?",
+      "image": "preguntas/atahualpa.png",
+      "respuestaCorrecta": "Atahualpa",
+      "respuestaIncorrecta1": "Huascar",
+      "respuestaIncorrecta2": "Tupak Katari",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 2
+    }
+  },
+  {
+    "model": "profiles.preguntareto2",
+    "pk": 7,
+    "fields": {
+      "pregunta": "¿?",
+      "image": "preguntas/",
+      "respuestaCorrecta": "",
+      "respuestaIncorrecta1": "",
+      "respuestaIncorrecta2": "",
+      "respuestaIncorrecta3": "",
+      "puntos": 100,
+      "tema_id": 3
+    }
+  },
+  {
+    "model": "profiles.preguntareto2",
+    "pk": 8,
+    "fields": {
+      "pregunta": "¿?",
+      "image": "preguntas/",
+      "respuestaCorrecta": "",
+      "respuestaIncorrecta1": "",
+      "respuestaIncorrecta2": "",
+      "respuestaIncorrecta3": "",
+      "puntos": 100,
+      "tema_id": 3
+    }
+  },
+  {
+    "model": "profiles.preguntareto2",
+    "pk": 9,
+    "fields": {
+      "pregunta": "¿?",
+      "image": "preguntas/",
+      "respuestaCorrecta": "",
+      "respuestaIncorrecta1": "",
+      "respuestaIncorrecta2": "",
+      "respuestaIncorrecta3": "",
+      "puntos": 100,
+      "tema_id": 3
+    }
+  },
+  {
+    "model": "profiles.preguntareto2",
+    "pk": 10,
+    "fields": {
+      "pregunta": "¿Quién es este personaje?",
+      "image": "preguntas/juanaAzurduy.png",
+      "respuestaCorrecta": "Juana Azurduy",
+      "respuestaIncorrecta1": "Bartolina Sisa",
+      "respuestaIncorrecta2": "Una de las heroinas de la Coronilla",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 4
+    }
+  },
+  {
+    "model": "profiles.preguntareto2",
+    "pk": 11,
+    "fields": {
+      "pregunta": "¿Quiénes son estas personas?",
+      "image": "preguntas/heroinas.png",
+      "respuestaCorrecta": "Heroinas de la Coronilla",
+      "respuestaIncorrecta1": "Grupo de Mujeres Cruceñas",
+      "respuestaIncorrecta2": "Grupo de Mujeres Paceñas",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 4
+    }
+  },
+  {
+    "model": "profiles.preguntareto2",
+    "pk": 12,
+    "fields": {
+      "pregunta": "¿Quién es este personaje?",
+      "image": "preguntas/ignacioWarnes.png",
+      "respuestaCorrecta": "Ignacio Warnes",
+      "respuestaIncorrecta1": "José Manuel Mercado",
+      "respuestaIncorrecta2": "José Manuel Vaca",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 4
+    }
+  },
+  {
+    "model": "profiles.preguntareto2",
+    "pk": 13,
+    "fields": {
+      "pregunta": "¿Qué Presidente es este?",
+      "image": "preguntas/joseMiguelDeVelasco.png",
+      "respuestaCorrecta": "José Miguel de Velasco",
+      "respuestaIncorrecta1": "Antonio José de Sucre",
+      "respuestaIncorrecta2": "Pedro Blanco Soto",
+      "respuestaIncorrecta3": "Andrés de Santa Cruz",
+      "puntos": 100,
+      "tema_id": 5
+    }
+  },
+  {
+    "model": "profiles.preguntareto2",
+    "pk": 14,
+    "fields": {
+      "pregunta": "¿Qué Presidente es este?",
+      "image": "preguntas/lidiaGueiler.png",
+      "respuestaCorrecta": "Lidia Gueiler",
+      "respuestaIncorrecta1": "Jeanine Añez",
+      "respuestaIncorrecta2": "No hubo Presidente Mujer",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 5
+    }
+  },
+  {
+    "model": "profiles.preguntareto2",
+    "pk": 15,
+    "fields": {
+      "pregunta": "¿Qué Presidente es este?",
+      "image": "preguntas/simonBolivar.png",
+      "respuestaCorrecta": "Simón Bolivar",
+      "respuestaIncorrecta1": "José María Pérez de Urdininea",
+      "respuestaIncorrecta2": "Antonio José de Sucre",
+      "respuestaIncorrecta3": "José Miguel de Velasco",
+      "puntos": 100,
+      "tema_id": 5
+    }
+  },
+  {
+    "model": "profiles.preguntareto2",
+    "pk": 16,
+    "fields": {
+      "pregunta": "¿Qué guerra libraron Bolivia y Paraguay?",
+      "image": "preguntas/boliviaParaguay.png",
+      "respuestaCorrecta": "Guerra del Chaco",
+      "respuestaIncorrecta1": "Guerra del Pacifico",
+      "respuestaIncorrecta2": "Guerra del Acre",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 6
+    }
+  },
+  {
+    "model": "profiles.preguntareto2",
+    "pk": 17,
+    "fields": {
+      "pregunta": "¿Quién es este personaje?",
+      "image": "preguntas/juancitoPinto.png",
+      "respuestaCorrecta": "Juancito Pinto",
+      "respuestaIncorrecta1": "Uno de los Colorados de Bolivia",
+      "respuestaIncorrecta2": "Eduardo Avaroa",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 6
+    }
+  },
+  {
+    "model": "profiles.preguntareto2",
+    "pk": 18,
+    "fields": {
+      "pregunta": "¿Qué guerra libraron Bolivia y Brasil?",
+      "image": "preguntas/boliviaBrasil.png",
+      "respuestaCorrecta": "Guerra del Acre",
+      "respuestaIncorrecta1": "Guerra del Chaco",
+      "respuestaIncorrecta2": "Guerra del Pacifico",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 6
+    }
+  },
+  {
+    "model": "profiles.preguntareto2",
+    "pk": 19,
+    "fields": {
+      "pregunta": "¿De qué Departamento es esta Bandera?",
+      "image": "preguntas/bandera_beni.png",
+      "respuestaCorrecta": "Beni",
+      "respuestaIncorrecta1": "Pando",
+      "respuestaIncorrecta2": "Tarija",
+      "respuestaIncorrecta3": "Santa Cruz de la Sierra",
+      "puntos": 100,
+      "tema_id": 7
+    }
+  },
+  {
+    "model": "profiles.preguntareto2",
+    "pk": 20,
+    "fields": {
+      "pregunta": "¿De qué Departamento es esta Bandera?",
+      "image": "preguntas/bandera_potosi.png",
+      "respuestaCorrecta": "Potosí",
+      "respuestaIncorrecta1": "Chuquisaca",
+      "respuestaIncorrecta2": "Oruro",
+      "respuestaIncorrecta3": "Tarija",
+      "puntos": 100,
+      "tema_id": 7
+    }
+  },
+  {
+    "model": "profiles.preguntareto2",
+    "pk": 21,
+    "fields": {
+      "pregunta": "¿De qué Departamento es esta Bandera?",
+      "image": "preguntas/bandera_chuquisaca.png",
+      "respuestaCorrecta": "Chuquisaca",
+      "respuestaIncorrecta1": "La Paz",
+      "respuestaIncorrecta2": "Potosí",
+      "respuestaIncorrecta3": "Tarija",
+      "puntos": 100,
+      "tema_id": 7
+    }
+  },
+  {
+    "model": "profiles.preguntareto2",
+    "pk": 22,
+    "fields": {
+      "pregunta": "¿De qué Departamento es esta Bandera?",
+      "image": "preguntas/bandera_laPaz.png",
+      "respuestaCorrecta": "La Paz",
+      "respuestaIncorrecta1": "Cochabamba",
+      "respuestaIncorrecta2": "Potosí",
+      "respuestaIncorrecta3": "Oruro",
+      "puntos": 100,
+      "tema_id": 7
+    }
+  },
+  {
+    "model": "profiles.preguntareto2",
+    "pk": 23,
+    "fields": {
+      "pregunta": "¿De qué Departamento es esta Bandera?",
+      "image": "preguntas/bandera_santaCruz.png",
+      "respuestaCorrecta": "Santa Cruz de la Sierra",
+      "respuestaIncorrecta1": "Beni",
+      "respuestaIncorrecta2": "Pando",
+      "respuestaIncorrecta3": "Cochabamba",
+      "puntos": 100,
+      "tema_id": 7
+    }
+  },
+  {
+    "model": "profiles.preguntareto2",
+    "pk": 24,
+    "fields": {
+      "pregunta": "¿?",
+      "image": "preguntas/",
+      "respuestaCorrecta": "",
+      "respuestaIncorrecta1": "",
+      "respuestaIncorrecta2": "",
+      "respuestaIncorrecta3": "",
+      "puntos": 100,
+      "tema_id": 8
+    }
+  },
+  {
+    "model": "profiles.preguntareto2",
+    "pk": 25,
+    "fields": {
+      "pregunta": "¿?",
+      "image": "preguntas/",
+      "respuestaCorrecta": "",
+      "respuestaIncorrecta1": "",
+      "respuestaIncorrecta2": "",
+      "respuestaIncorrecta3": "",
+      "puntos": 100,
+      "tema_id": 8
+    }
+  },
+  {
+    "model": "profiles.preguntareto2",
+    "pk": 26,
+    "fields": {
+      "pregunta": "¿?",
+      "image": "preguntas/",
+      "respuestaCorrecta": "",
+      "respuestaIncorrecta1": "",
+      "respuestaIncorrecta2": "",
+      "respuestaIncorrecta3": "",
+      "puntos": 100,
+      "tema_id": 8
+    }
+  },
+  {
+    "model": "profiles.preguntareto2",
+    "pk": 27,
+    "fields": {
+      "pregunta": "¿?",
+      "image": "preguntas/",
+      "respuestaCorrecta": "",
+      "respuestaIncorrecta1": "",
+      "respuestaIncorrecta2": "",
+      "respuestaIncorrecta3": "",
+      "puntos": 100,
+      "tema_id": 9
+    }
+  },
+  {
+    "model": "profiles.preguntareto2",
+    "pk": 28,
+    "fields": {
+      "pregunta": "¿?",
+      "image": "preguntas/",
+      "respuestaCorrecta": "",
+      "respuestaIncorrecta1": "",
+      "respuestaIncorrecta2": "",
+      "respuestaIncorrecta3": "",
+      "puntos": 100,
+      "tema_id": 9
+    }
+  },
+  {
+    "model": "profiles.preguntareto2",
+    "pk": 29,
+    "fields": {
+      "pregunta": "¿?",
+      "image": "preguntas/",
+      "respuestaCorrecta": "",
+      "respuestaIncorrecta1": "",
+      "respuestaIncorrecta2": "",
+      "respuestaIncorrecta3": "",
+      "puntos": 100,
+      "tema_id": 9
+    }
+  },
+  {
+    "model": "profiles.preguntareto2",
+    "pk": 30,
+    "fields": {
+      "pregunta": "¿?",
+      "image": "preguntas/",
+      "respuestaCorrecta": "",
+      "respuestaIncorrecta1": "",
+      "respuestaIncorrecta2": "",
+      "respuestaIncorrecta3": "",
+      "puntos": 100,
+      "tema_id": 9
+    }
+  },
+  {
+    "model": "profiles.preguntareto2",
+    "pk": 31,
+    "fields": {
+      "pregunta": "¿Qué modificación del Escudo Nacional es esta?",
+      "image": "preguntas/escudo2.png",
+      "respuestaCorrecta": "2da Modificación",
+      "respuestaIncorrecta1": "1era Modificación",
+      "respuestaIncorrecta2": "3era Modificación",
+      "respuestaIncorrecta3": "Nunca existio esa Modificación",
+      "puntos": 100,
+      "tema_id": 10
+    }
+  },
+  {
+    "model": "profiles.preguntareto2",
+    "pk": 32,
+    "fields": {
+      "pregunta": "¿Qué Bandera es esta?",
+      "image": "preguntas/whipala.png",
+      "respuestaCorrecta": "Whipala",
+      "respuestaIncorrecta1": "Actual Bandera Nacional",
+      "respuestaIncorrecta2": "1era Bandera Nacional",
+      "respuestaIncorrecta3": "2da Bandera Nacional",
+      "puntos": 100,
+      "tema_id": 10
+    }
+  },
+  {
+    "model": "profiles.preguntareto2",
+    "pk": 33,
+    "fields": {
+      "pregunta": "¿En qué fecha fue creada la Actual Bandera Nacional?",
+      "image": "preguntas/bandera3.png",
+      "respuestaCorrecta": "5 de Noviembre de 1851",
+      "respuestaIncorrecta1": "25 de Julio de 1826",
+      "respuestaIncorrecta2": "17 de Agosto de 1825",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 10
+    }
+  },
+  {
+    "model": "profiles.preguntareto2",
+    "pk": 34,
+    "fields": {
+      "pregunta": "¿Qué Simbolo Patrio es este?",
+      "image": "preguntas/patuju.png",
+      "respuestaCorrecta": "Patuju",
+      "respuestaIncorrecta1": "Kantuta",
+      "respuestaIncorrecta2": "Escarapela",
+      "respuestaIncorrecta3": "Wiphala",
+      "puntos": 100,
+      "tema_id": 10
+    }
+  },
+  {
+    "model": "profiles.preguntareto2",
+    "pk": 35,
+    "fields": {
+      "pregunta": "¿Qué modificacion de la Bandera Nacional es esta?",
+      "image": "preguntas/bandera1.png",
+      "respuestaCorrecta": "1era Modificación",
+      "respuestaIncorrecta1": "3era Modificación",
+      "respuestaIncorrecta2": "2da Modificación",
+      "respuestaIncorrecta3": "Nunca existio esa Modificación",
+      "puntos": 100,
+      "tema_id": 10
+    }
+  }
+]

@@ -1,0 +1,73 @@
+[
+    {
+    "model": "profiles.tema",
+    "pk": 1,
+    "fields": {
+      "title": "Periodo Prehispánico"
+    }
+  },
+  
+  {
+    "model": "profiles.tema",
+    "pk": 2,
+    "fields": {
+      "title": "La Conquista del Imperio Inca"
+    }
+  },
+  {
+    "model": "profiles.tema",
+    "pk": 3,
+    "fields": {
+      "title": "La Audiencia de Charcas"
+    }
+  },
+  {
+    "model": "profiles.tema",
+    "pk": 4,
+    "fields": {
+      "title": "Guerra de la Independencia"
+    }
+  },
+  {
+    "model": "profiles.tema",
+    "pk": 5,
+    "fields": {
+      "title": "Presidentes de Bolivia"
+    }
+  },
+  {
+    "model": "profiles.tema",
+    "pk": 6,
+    "fields": {
+      "title": "Guerras Limítrofes"
+    }
+  },
+  {
+    "model": "profiles.tema",
+    "pk": 7,
+    "fields": {
+      "title": "Fundación de los Departamentos"
+    }
+  },
+  {
+    "model": "profiles.tema",
+    "pk": 8,
+    "fields": {
+      "title": "Economía en Bolivia"
+    }
+  },
+  {
+    "model": "profiles.tema",
+    "pk": 9,
+    "fields": {
+      "title": "Ingreso y Expulsión de las Misiones Jesuitas"
+    }
+  },
+  {
+    "model": "profiles.tema",
+    "pk": 10,
+    "fields": {
+      "title": "Creación de la Bandera y Escudo Nacional y los Símbolos Patrios"
+    }
+  }
+]

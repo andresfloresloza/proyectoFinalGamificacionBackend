@@ -1,0 +1,1302 @@
+[
+  {
+    "model": "profiles.pregunta",
+    "pk": 1,
+    "fields": {
+      "pregunta": "¿Cuáles fueron las primeras culturas durante el Periodo Prehispanico en Bolivia?",
+      "respuestaIncorrecta1": "Aimara y Quechua",
+      "respuestaCorrecta": "Chiripa / Wankarani",
+      "respuestaIncorrecta2": "Tiahuanacota",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 1
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 2,
+    "fields": {
+      "pregunta": "¿Quién era Wiracocha?",
+      "respuestaIncorrecta1": "Dios del Imperio Español",
+      "respuestaCorrecta": "Dios de los Tiahuanacotas",
+      "respuestaIncorrecta2": "Dios de la Cultura Mexicana",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 1
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 3,
+    "fields": {
+      "pregunta": "¿Qué idioma era utilizado en la Ciudad de Tiahuanaco?",
+      "respuestaCorrecta": "Pukina",
+      "respuestaIncorrecta1": "Quechua",
+      "respuestaIncorrecta2": "Aimara",
+      "respuestaIncorrecta3": "Uru",
+      "puntos": 100,
+      "tema_id": 1
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 4,
+    "fields": {
+      "pregunta": "¿Quiénes invadieron la Cultura Tiahuanacota?",
+      "respuestaIncorrecta1": "Los Quechuas",
+      "respuestaCorrecta": "Los Aimaras",
+      "respuestaIncorrecta2": "Los Españoles",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 1
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 5,
+    "fields": {
+      "pregunta": "¿Qué rituales realizaban los Tiahuanacotas?",
+      "respuestaIncorrecta1": "Mutilación Humana",
+      "respuestaIncorrecta2": "Extracción de los Organos",
+      "respuestaCorrecta": "Decapitación Humana / Extracción de Ojos",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 1
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 6,
+    "fields": {
+      "pregunta": "¿Qué cultura construyó la Puerta del Sol?",
+      "respuestaIncorrecta1": "Cultura Quechua",
+      "respuestaCorrecta": "Cultura Tiahuanacota",
+      "respuestaIncorrecta2": "Cultura Aimara",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 1
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 7,
+    "fields": {
+      "pregunta": "¿Dónde esta ubicado la Puerta del Sol de la Cultura Tiahuanacota?",
+      "respuestaCorrecta": "Lago Titicaca - La Paz",
+      "respuestaIncorrecta1": "Lago Uru Uru - Oruro",
+      "respuestaIncorrecta2": "Lago Rogaguado - Beni",
+      "respuestaIncorrecta3": "Lago  Poopó - Oruro",
+      "puntos": 100,
+      "tema_id": 1
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 8,
+    "fields": {
+      "pregunta": "¿Cuántas clases sociales existían entre los Aimaras y cuales eran?",
+      "respuestaIncorrecta1": "Nobleza",
+      "respuestaIncorrecta2": "Yatiris o Sacerdotes",
+      "respuestaIncorrecta3": "El Pueblo",
+      "respuestaCorrecta": "Todas las Anteriores",
+      "puntos": 100,
+      "tema_id": 1
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 9,
+    "fields": {
+      "pregunta": "¿Cómo dividía la tierra el pueblo Aymará?",
+      "respuestaCorrecta": "Tupo para el varón / Medio Tupo para la Mujer",
+      "respuestaIncorrecta1": "Tupo para el varón y Tupo para la Mujer",
+      "respuestaIncorrecta2": "Medio Tupo para el varón y Tupo para la Mujer",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 1
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 10,
+    "fields": {
+      "pregunta": "¿Por quiénes eran asesorados las autoridades o gobernantes Collas?",
+      "respuestaIncorrecta1": "Auquis (Ancianos)",
+      "respuestaIncorrecta2": "Amautas (Sabios)",
+      "respuestaCorrecta": "Auquis / Amautas",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 1
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 11,
+    "fields": {
+      "pregunta": "¿Quién fue el conquistador del Imperio Inca?",
+      "respuestaIncorrecta1": "Hernán Cortés",
+      "respuestaCorrecta": "Francisco Pizarro",
+      "respuestaIncorrecta2": "Napoleón Bonaparte",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 2
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 12,
+    "fields": {
+      "pregunta": "¿En qué fecha acaba el Imperio Inca?",
+      "respuestaCorrecta": "16 de Noviembre de 1532",
+      "respuestaIncorrecta1": "20 de Julio de 1530",
+      "respuestaIncorrecta2": "01 de Marzo de 1535",
+      "respuestaIncorrecta3": "10 de Noviembre de 1540",
+      "puntos": 100,
+      "tema_id": 2
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 13,
+    "fields": {
+      "pregunta": "¿Cuántos fueron los europeos que acompañaron a Francisco Pizarro para la conquista del Imperio Inca?",
+      "respuestaIncorrecta1": "200 Europeos",
+      "respuestaIncorrecta2": "100 Europeos",
+      "respuestaCorrecta": "168 Europeos",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 2
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 14,
+    "fields": {
+      "pregunta": "¿Que era Huascar de Atahualpa?",
+      "respuestaCorrecta": "Su Hermano Mayor",
+      "respuestaIncorrecta1": "Otro Inca de la Cultura Inca",
+      "respuestaIncorrecta2": "Su Hermano Menor",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 2
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 15,
+    "fields": {
+      "pregunta": "¿Cuántos viajes realizarón los Europeos para la Conquista?",
+      "respuestaIncorrecta1": "1 Viaje",
+      "respuestaIncorrecta2": "2 Viajes",
+      "respuestaCorrecta": "3 Viajes",
+      "respuestaIncorrecta3": "4 Viajes",
+      "puntos": 100,
+      "tema_id": 2
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 16,
+    "fields": {
+      "pregunta": "¿En qué fecha es decapitado Atahualpa?",
+      "respuestaCorrecta": "26 de julio de 1533",
+      "respuestaIncorrecta1": "15 de Noviembre de 1535",
+      "respuestaIncorrecta2": "06 de Marzo de 1530",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 2
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 17,
+    "fields": {
+      "pregunta": "¿En qué fecha es derrotado Diego de Almagro?",
+      "respuestaIncorrecta1": "Enero de 1542",
+      "respuestaCorrecta": "Abril de 1538",
+      "respuestaIncorrecta2": "Julio de 1535",
+      "respuestaIncorrecta3": "Noviembre de 1540",
+      "puntos": 100,
+      "tema_id": 2
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 18,
+    "fields": {
+      "pregunta": "¿En qué fecha muere Francisco Pizarro por el Hijo de Almagro?",
+      "respuestaCorrecta": "Junio de 1541",
+      "respuestaIncorrecta1": "Febrero de 1540",
+      "respuestaIncorrecta2": "Abril de 1542",
+      "respuestaIncorrecta3": "Octubre de 1538",
+      "puntos": 100,
+      "tema_id": 2
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 19,
+    "fields": {
+      "pregunta": "¿Quiénes fueron los fundadores del Imperio Inca?",
+      "respuestaIncorrecta1": "Lloque Yupanqui y Mama Cagua",
+      "respuestaIncorrecta2": "Sinchi Roca y Mama Coca",
+      "respuestaCorrecta": "Manco Cápac / Mama Ocllo",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 2
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 20,
+    "fields": {
+      "pregunta": "¿Cuál fue el motivo principal de la Guerra Civil entre Pizarro y Almagro?",
+      "respuestaCorrecta": "Repartimiento de Tierras Conquistadas",
+      "respuestaIncorrecta1": "Francisco queria las tierras de Almagro",
+      "respuestaIncorrecta2": "Almagro queria las tierras de Francisco",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 2
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 21,
+    "fields": {
+      "pregunta": "¿Quiénes lucharon en la Guerra de Guerrillas?",
+      "respuestaIncorrecta1": "Esclavos",
+      "respuestaCorrecta": "Nativos / Mestizos",
+      "respuestaIncorrecta2": "Jovenes y Niños",
+      "respuestaIncorrecta3": "Todas las Anteriores",
+      "puntos": 100,
+      "tema_id": 3
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 22,
+    "fields": {
+      "pregunta": "¿Dónde tuvo lugar la Guerra de Guerrillas?",
+      "respuestaIncorrecta1": "Europa",
+      "respuestaCorrecta": "América Latina",
+      "respuestaIncorrecta2": "América del Norte",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 3
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 23,
+    "fields": {
+      "pregunta": "¿Cuándo tuvo lugar la Guerra de Guerrillas?",
+      "respuestaIncorrecta1": "Principios del Siglo XVII",
+      "respuestaIncorrecta2": "Mediados del Siglo XVIII",
+      "respuestaCorrecta": "Principios del Siglo XIX",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 3
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 24,
+    "fields": {
+      "pregunta": "¿Qué Tácticas de Guerrilla utilizaron los Guerrilleros?",
+      "respuestaCorrecta": "Ataques Sorpresas / Emboscadas",
+      "respuestaIncorrecta1": "Infiltraciones",
+      "respuestaIncorrecta2": "Disfrazarse de los Enemigos",
+      "respuestaIncorrecta3": "Todas las Anteriores",
+      "puntos": 100,
+      "tema_id": 3
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 25,
+    "fields": {
+      "pregunta": "¿Qué paises abarcaba el Virreinato del Río de la Plata?",
+      "respuestaCorrecta": "Argentina, Uruguay, Paraguay y Bolivia",
+      "respuestaIncorrecta1": "Chile, Brasil, Argentina",
+      "respuestaIncorrecta2": "Bolivia, Brasil, Perú",
+      "respuestaIncorrecta3": "Todas las Anteriores",
+      "puntos": 100,
+      "tema_id": 3
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 26,
+    "fields": {
+      "pregunta": "¿En qué Departamentos de Bolivia se llevo a cabo la Guerra de Guerrillas?",
+      "respuestaIncorrecta1": "Santa Cruz de la Sierra, Beni y Pando",
+      "respuestaCorrecta": "Potosí / Oruro",
+      "respuestaIncorrecta2": "La Paz, Cochabamba",
+      "respuestaIncorrecta3": "Tarija y Chuquisaca",
+      "puntos": 100,
+      "tema_id": 3
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 27,
+    "fields": {
+      "pregunta": "¿Qué consecuencias tuvo la Guerra de Guerrillas?",
+      "respuestaIncorrecta1": "Establecimiento de los Estados Independientes de Argentina y Uruguay",
+      "respuestaIncorrecta2": "Comienzo de la Guerra de Independencia en Argentina",
+      "respuestaCorrecta": "Establecimiento de los Estados Independientes de Argentina y Uruguay / Comienzo de la Guerra de Independencia en Argentina",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 3
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 28,
+    "fields": {
+      "pregunta": "¿Quiénes fueron los principales protagonistas de la Guerra de Guerrillas?",
+      "respuestaCorrecta": "Guerrilleros Argentinos y Uruguayos",
+      "respuestaIncorrecta1": "Guerrilleros Peruanos y Chilenos",
+      "respuestaIncorrecta2": "Guerrilleros Brasileros y Bolivianos",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 3
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 29,
+    "fields": {
+      "pregunta": "¿Cuáles eran los principales objetivos de las Guerrillas?",
+      "respuestaIncorrecta1": "Estados Independientes",
+      "respuestaCorrecta": "Independencia del Dominio Colonial Español",
+      "respuestaIncorrecta2": "Obtención de Tierras",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 3
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 30,
+    "fields": {
+      "pregunta": "¿Quién ganó la Guerra de Guerrillas?",
+      "respuestaCorrecta": "Poder Colonial Español",
+      "respuestaIncorrecta1": "Guerrilleros",
+      "respuestaIncorrecta2": "Nativos y Mestizos",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 3
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 31,
+    "fields": {
+      "pregunta": "¿En qué fecha fue creada la Real Audiencia de Charcas?",
+      "respuestaIncorrecta1": "25 de Octubre de 1560",
+      "respuestaCorrecta": " 18 de Septiembre de 1559",
+      "respuestaIncorrecta2": "2 de Agosto de 1555",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 4
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 32,
+    "fields": {
+      "pregunta": "¿Quiénes fuerón las Heroínas de la Coronilla?",
+      "respuestaCorrecta": "Grupo de Mujeres Cochabambinas",
+      "respuestaIncorrecta1": "Grupo de Mujeres Cruceñas",
+      "respuestaIncorrecta2": "Grupo de Mujeres Paceñas",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 4
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 33,
+    "fields": {
+      "pregunta": "¿Cuantos ejercitos auxiliares existio durante la Independencia de Bolivia?",
+      "respuestaIncorrecta1": "1",
+      "respuestaIncorrecta2": "2",
+      "respuestaIncorrecta3": "3",
+      "respuestaCorrecta": "4",
+      "puntos": 100,
+      "tema_id": 4
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 34,
+    "fields": {
+      "pregunta": "¿Quién fue la Heroína de la Independencia del Alto-Perú?",
+      "respuestaIncorrecta1": "Micaela Bastidas",
+      "respuestaCorrecta": "Juana Azurduy",
+      "respuestaIncorrecta2": "Rosa Campusano",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 4
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 35,
+    "fields": {
+      "pregunta": "¿Quiénes fueron los Libertadores en la Independencia de Bolivia?",
+      "respuestaCorrecta": "Simón Bolivar y Antonio José de Sucre",
+      "respuestaIncorrecta1": "Napoleón Bonaparte y José Bonaparte",
+      "respuestaIncorrecta2": "Andrés de Santa Cruz y Pedro Blanco",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 4
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 36,
+    "fields": {
+      "pregunta": "¿En qué fecha se crea la República de Bolivia?",
+      "respuestaCorrecta": "6 de Agosto de 1825",
+      "respuestaIncorrecta1": "17 de Octubre de 1830",
+      "respuestaIncorrecta2": "24 de Septiembre de 1820",
+      "respuestaIncorrecta3": "2 de Agosto de 1825",
+      "puntos": 100,
+      "tema_id": 4
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 37,
+    "fields": {
+      "pregunta": "¿Quién fue Ignacio Warnes?",
+      "respuestaIncorrecta1": "Gobernador de Santa Cruz",
+      "respuestaIncorrecta2": "Jefe del Segundo Ejército Auxiliar",
+      "respuestaIncorrecta3": "Militar y Político",
+      "respuestaCorrecta": "Todas las Anteriores",
+      "puntos": 100,
+      "tema_id": 4
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 38,
+    "fields": {
+      "pregunta": "¿Qué era el Alto-Bajo Perú?",
+      "respuestaCorrecta": "Union de los Paises de Perú y Bolivia",
+      "respuestaIncorrecta1": "Union de los Paises de Perú y Chile",
+      "respuestaIncorrecta2": "Union de los Paises de Chile y Argentina",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 4
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 39,
+    "fields": {
+      "pregunta": "¿Quién era el Rey de España durante la Independencia de Bolivia?",
+      "respuestaIncorrecta1": "Rey Carlos V",
+      "respuestaCorrecta": "Rey Carlos IV",
+      "respuestaIncorrecta2": "Rey Fernando IV",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 4
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 40,
+    "fields": {
+      "pregunta": "¿Quién era Napoleón Bonaparte?",
+      "respuestaIncorrecta1": "Militar",
+      "respuestaIncorrecta2": "Emperador de Francia",
+      "respuestaIncorrecta3": "General Republicano",
+      "respuestaCorrecta": "Todas las Anteriores",
+      "puntos": 100,
+      "tema_id": 4
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 41,
+    "fields": {
+      "pregunta": "¿Quién fue Simón Bolivar?",
+      "respuestaIncorrecta1": "Guerrillero",
+      "respuestaIncorrecta2": "Soldado Español",
+      "respuestaCorrecta": "Primer Presidente de Bolivia / Libertador de America",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 5
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 42,
+    "fields": {
+      "pregunta": "¿En qué pais y fecha nacio Antonio José de Sucre?",
+      "respuestaCorrecta": "Caracas, Venezuela. 3 de Febrero de 1795",
+      "respuestaIncorrecta1": "Buenos Aires, Argentina. 20 de Julio de 1796",
+      "respuestaIncorrecta2": "Chuqisaca, Bolivia. 3 de Febrero de 1795",
+      "respuestaIncorrecta3": "Lima, Perú. 17 de Marzo de 1793",
+      "puntos": 100,
+      "tema_id": 5
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 43,
+    "fields": {
+      "pregunta": "¿Quién fue el 3er Presidente de Bolivia?",
+      "respuestaIncorrecta1": "Andrés de Santa Cruz",
+      "respuestaCorrecta": "José Maria Peréz de Urdininea",
+      "respuestaIncorrecta2": "Antonio José de Sucre",
+      "respuestaIncorrecta3": "José Miguel de Velasco",
+      "puntos": 100,
+      "tema_id": 5
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 44,
+    "fields": {
+      "pregunta": "¿Quien fue el 1er Presidente Militar?",
+      "respuestaIncorrecta1": "Carlos Quintanilla Quiroga",
+      "respuestaIncorrecta2": "Germán Busch Becerra",
+      "respuestaIncorrecta3": "Juan José Torres",
+      "respuestaCorrecta": "Hugo Banzer Suárez",
+      "puntos": 100,
+      "tema_id": 5
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 45,
+    "fields": {
+      "pregunta": "¿Quién fue Lidia Gueiler Tejada?",
+      "respuestaIncorrecta1": "Primera Presidenta Mujer de Bolivia",
+      "respuestaIncorrecta2": "Prima del Ex-Presidente Luis García Meza Tejada",
+      "respuestaIncorrecta3": "Sobrina del Ex-Presidente José Luis Tejada Sorzano",
+      "respuestaCorrecta": "Todas las Anteriores",
+      "puntos": 100,
+      "tema_id": 5
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 46,
+    "fields": {
+      "pregunta": "¿Quién fue el 1er Presidente Indigena de Bolivia?",
+      "respuestaIncorrecta1": "Jaime Paz Zamora",
+      "respuestaIncorrecta2": "Carlos Mesa Gisbert",
+      "respuestaCorrecta": "Juan Evo Morales Ayma",
+      "respuestaIncorrecta3": "Gonzalo Sánchez de Lozada",
+      "puntos": 100,
+      "tema_id": 5
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 47,
+    "fields": {
+      "pregunta": "¿Bajo la Presidencia de quién ocurrio la Masacre de Octubre Negro del 2003?",
+      "respuestaIncorrecta1": "Hugo Banzer Suárez",
+      "respuestaIncorrecta2": "Carlos Mesa Gisbert",
+      "respuestaIncorrecta3": "Jorge Quiroga Ramírez",
+      "respuestaCorrecta": "Gonzalo Sánchez de Lozada",
+      "puntos": 100,
+      "tema_id": 5
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 48,
+    "fields": {
+      "pregunta": "¿Qué Presidente fue colgado en la Plaza Murillo del Departamento de La Paz?",
+      "respuestaCorrecta": "Gualberto Villarroel",
+      "respuestaIncorrecta1": "Germán Busch",
+      "respuestaIncorrecta2": "Victor Paz Estenssoro",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 5
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 49,
+    "fields": {
+      "pregunta": "¿Quién fue el 1er Presidente Cruceño que tuvo Bolivia?",
+      "respuestaIncorrecta1": "Andrés de Santa Cruz",
+      "respuestaCorrecta": "José Miguel de Velasco",
+      "respuestaIncorrecta2": "Hilarion Daza",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 5
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 50,
+    "fields": {
+      "pregunta": "¿Qué Presidente estuvo más años en el Gobierno de Bolivia?",
+      "respuestaIncorrecta1": "Carlos Mesa Gisbert",
+      "respuestaIncorrecta2": "Jorge Tuto Quiroga",
+      "respuestaIncorrecta3": "Eduardo Rodríguez Veltzé",
+      "respuestaCorrecta": "Juan Evo Morales Ayma",
+      "puntos": 100,
+      "tema_id": 5
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 51,
+    "fields": {
+      "pregunta": "¿La Guerra del Pacifico con qué otro nombre se lo conocia?",
+      "respuestaIncorrecta1": "Guerra del Guano y del Salitre",
+      "respuestaIncorrecta2": "Guerra del Pacifico en Antofagasta",
+      "respuestaCorrecta": "Guerra del Guano y del Salitre / Guerra del Pacifico en Antofagasta",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 6
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 52,
+    "fields": {
+      "pregunta": "¿En qué periodo se desarrolló la Guerra del Pacifico?",
+      "respuestaIncorrecta1": "Año 1875 y 1880",
+      "respuestaIncorrecta2": "Año 1870 y 1880",
+      "respuestaCorrecta": "Año 1879 y 1884",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 6
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 53,
+    "fields": {
+      "pregunta": "¿Que países lucharon en la Guerra del Acre?",
+      "respuestaIncorrecta1": "Bolivia y Perú",
+      "respuestaCorrecta": "Bolivia y Brasil",
+      "respuestaIncorrecta2": "Bolivia y Chile",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 6
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 54,
+    "fields": {
+      "pregunta": "¿En qué periodo se desarrolló la Guerra del Acre?",
+      "respuestaIncorrecta1": "Año 1900 y 1905",
+      "respuestaIncorrecta2": "Año 1885 y 1900",
+      "respuestaCorrecta": "Año 1889 y 1903",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 6
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 55,
+    "fields": {
+      "pregunta": "¿La región del Acre que riquezas poseía?",
+      "respuestaIncorrecta1": "Árboles de Caucho",
+      "respuestaIncorrecta2": "Yacimientos Auríferos",
+      "respuestaCorrecta": "Árboles de Caucho / Yacimientos Auríferos",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 6
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 56,
+    "fields": {
+      "pregunta": "¿Quienes intervinieron en la Guerra del Chaco?",
+      "respuestaIncorrecta1": "Bolivia y Argentina",
+      "respuestaIncorrecta2": "Bolivia y Brasil",
+      "respuestaCorrecta": "Bolivia y Paraguay",
+      "respuestaIncorrecta3": "Bolivia y Perú",
+      "puntos": 100,
+      "tema_id": 6
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 57,
+    "fields": {
+      "pregunta": "¿En qué periodo se desarrolló la Guerra del Chaco?",
+      "respuestaCorrecta": "Año 1932 y 1935",
+      "respuestaIncorrecta1": "Año 1935 y 1937",
+      "respuestaIncorrecta2": "Año 1930 y 1932",
+      "respuestaIncorrecta3": "Año 1930 y 1935",
+      "puntos": 100,
+      "tema_id": 6
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 58,
+    "fields": {
+      "pregunta": "¿La región del Chaco que riquezas poseía?",
+      "respuestaIncorrecta1": "Árboles de Caucho",
+      "respuestaCorrecta": "Rumor de Reservas de Petróleo",
+      "respuestaIncorrecta2": "Yacimientos Auríferos",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 6
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 59,
+    "fields": {
+      "pregunta": "¿Qué paises apoyaron en la Guerra del Chaco?",
+      "respuestaIncorrecta1": "Chile (Paraguay) y Perú (Bolivia)",
+      "respuestaIncorrecta2": "Brasil (Paraguay) y Venezuela (Bolivia)",
+      "respuestaCorrecta": "Estados Unidos (Paraguay) y Gran Bretaña (Bolivia)",
+      "respuestaIncorrecta3": "Argentina (Paraguay) y Perú (Bolivia)",
+      "puntos": 100,
+      "tema_id": 6
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 60,
+    "fields": {
+      "pregunta": "¿Que Guerra Territorial duro más tiempo?",
+      "respuestaIncorrecta1": "Guerra del Pacifico",
+      "respuestaCorrecta": "Guerra del Acre",
+      "respuestaIncorrecta2": "Guerra del Chaco",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 6
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 61,
+    "fields": {
+      "pregunta": "¿En qué fecha fue creado el Departamento de Potosí y su Bandera?",
+      "respuestaIncorrecta1": "1 de Noviembre de 1606 y 1 de Noviembre de 1606",
+      "respuestaIncorrecta2": "4 de Julio de 1574 y 10 de Diciembre de 1997",
+      "respuestaIncorrecta3": "15 de Agosto de 1571 y 14 de Septiembre de 1809",
+      "respuestaCorrecta": "1 de Abril de 1545 y 24 de Octubre de 1940",
+      "puntos": 100,
+      "tema_id": 7
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 62,
+    "fields": {
+      "pregunta": "¿En qué fecha fue creado el Departamento de Oruro y su Bandera?",
+      "respuestaIncorrecta1": "1 de Abril de 1545 y 24 de Octubre de 1940",
+      "respuestaIncorrecta2": "15 de Agosto de 1571 y 14 de Septiembre de 1809",
+      "respuestaCorrecta": "1 de Noviembre de 1606 y 1 de Noviembre de 1606",
+      "respuestaIncorrecta3": "26 de Febrero de 1561 y 24 de Julio de 1864",
+      "puntos": 100,
+      "tema_id": 7
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 63,
+    "fields": {
+      "pregunta": "¿En qué fecha fue creado el Departamento de Pando y su Bandera?",
+      "respuestaCorrecta": "24 de Septiembre de 1938 y 24 de Septiembre de 1938",
+      "respuestaIncorrecta1": "15 de Agosto de 1571 y 14 de Septiembre de 1809",
+      "respuestaIncorrecta2": "26 de Febrero de 1561 y 24 de Julio de 1864",
+      "respuestaIncorrecta3": "29 de Septiembre de 1538 y 30 de Octubre 1945",
+      "puntos": 100,
+      "tema_id": 7
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 64,
+    "fields": {
+      "pregunta": "¿En qué fecha fue creado el Departamento de Chuquisaca y su Bandera?",
+      "respuestaCorrecta": "29 de Septiembre de 1538 y 30 de Octubre 1945",
+      "respuestaIncorrecta1": "24 de Septiembre de 1938 y 24 de Septiembre de 1938",
+      "respuestaIncorrecta2": "1 de Noviembre de 1606 y 1 de Noviembre de 1606",
+      "respuestaIncorrecta3": "15 de Agosto de 1571 y 14 de Septiembre de 1809",
+      "puntos": 100,
+      "tema_id": 7
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 65,
+    "fields": {
+      "pregunta": "¿En qué fecha fue creado el Departamento de Tarija y su Bandera?",
+      "respuestaCorrecta": "4 de Julio de 1574 y 10 de Diciembre de 1997",
+      "respuestaIncorrecta1": "20 de Octubre de 1548 y 16 de Julio de 1809",
+      "respuestaIncorrecta2": "29 de Septiembre de 1538 y 30 de Octubre 1945",
+      "respuestaIncorrecta3": "1 de Noviembre de 1606 y 1 de Noviembre de 1606",
+      "puntos": 100,
+      "tema_id": 7
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 66,
+    "fields": {
+      "pregunta": "¿En qué fecha fue creado el Departamento de Beni y su Bandera?",
+      "respuestaIncorrecta1": "29 de Septiembre de 1538 y 30 de Octubre 1945",
+      "respuestaCorrecta": "18 de Noviembre de 1842 y 31 de Octubre de 1851",
+      "respuestaIncorrecta2": "4 de Julio de 1574 y 10 de Diciembre de 1997",
+      "respuestaIncorrecta3": "1 de Abril de 1545 y 24 de Octubre de 1940",
+      "puntos": 100,
+      "tema_id": 7
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 67,
+    "fields": {
+      "pregunta": "¿En qué fecha fue creado el Departamento de La Paz y su Bandera?",
+      "respuestaIncorrecta1": "1 de Abril de 1545 y 24 de Octubre de 1940",
+      "respuestaIncorrecta2": "1 de Noviembre de 1606 y 1 de Noviembre de 1606",
+      "respuestaCorrecta": "20 de Octubre de 1548 y 16 de Julio de 1809",
+      "respuestaIncorrecta3": "26 de Febrero de 1561 y 24 de Julio de 1864",
+      "puntos": 100,
+      "tema_id": 7
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 68,
+    "fields": {
+      "pregunta": "¿En qué fecha fue creado el Departamento de Cochabamba y su Bandera?",
+      "respuestaCorrecta": "15 de Agosto de 1571 y 14 de Septiembre de 1809",
+      "respuestaIncorrecta1": "26 de Febrero de 1561 y 24 de Julio de 1864",
+      "respuestaIncorrecta2": "20 de Octubre de 1548 y 16 de Julio de 1809",
+      "respuestaIncorrecta3": "18 de Noviembre de 1842 y 31 de Octubre de 1851",
+      "puntos": 100,
+      "tema_id": 7
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 69,
+    "fields": {
+      "pregunta": "¿En qué fecha fue creado el Departamento de Santa Cruz de la Sierra y su Bandera?",
+      "respuestaIncorrecta1": "18 de Noviembre de 1842 y 31 de Octubre de 1851",
+      "respuestaIncorrecta2": "4 de Julio de 1574 y 10 de Diciembre de 1997",
+      "respuestaIncorrecta3": "29 de Septiembre de 1538 y 30 de Octubre 1945",
+      "respuestaCorrecta": "26 de Febrero de 1561 y 24 de Julio de 1864",
+      "puntos": 100,
+      "tema_id": 7
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 70,
+    "fields": {
+      "pregunta": "¿En qué fecha fue creado el Estado Plurinacional de Bolivia?",
+      "respuestaIncorrecta1": "14 de Julio de 2008",
+      "respuestaIncorrecta2": "20 de Octubre de 2012",
+      "respuestaCorrecta": " 22 de Enero de 2010",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 7
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 71,
+    "fields": {
+      "pregunta": "¿En qué periodo se dio la Gran Crisis Económica en Bolivia?",
+      "respuestaCorrecta": "Años 1982-1987",
+      "respuestaIncorrecta1": "Años 1977-1980",
+      "respuestaIncorrecta2": "Año 1950-1960",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 8
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 72,
+    "fields": {
+      "pregunta": "¿Qué productos se exportan principalmente de Bolivia?",
+      "respuestaIncorrecta1": "Gas natural y Petróleo Crudo",
+      "respuestaIncorrecta2": "Oro y Mineral del Zinc",
+      "respuestaIncorrecta3": "Harina de Soja",
+      "respuestaCorrecta": "Todas las Anteriores",
+      "puntos": 100,
+      "tema_id": 8
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 73,
+    "fields": {
+      "pregunta": "¿En qué periodo se dio la Hiperinflación en Bolivia?",
+      "respuestaCorrecta": "Años 1982 y 1985",
+      "respuestaIncorrecta1": "Años 1950 y 1955",
+      "respuestaIncorrecta2": "Años 1980 y 1981",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 8
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 74,
+    "fields": {
+      "pregunta": "¿Cuál era el concepto de Trueque?",
+      "respuestaIncorrecta1": "Intercambio de Productos Alimenticios",
+      "respuestaIncorrecta2": "Intercambio de Bienes Materiales o Servicios por Otros Objetos o Servicios",
+      "respuestaCorrecta": "Intercambio de Productos Alimenticios / Intercambio de Bienes Materiales o Servicios por Otros Objetos o Servicios",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 8
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 75,
+    "fields": {
+      "pregunta": "¿Qué productos se importan principalmente a Bolivia?",
+      "respuestaIncorrecta1": "Combustible Gasolina y Diesel",
+      "respuestaIncorrecta2": "Petróleo Refinado",
+      "respuestaIncorrecta3": "Coches",
+      "respuestaCorrecta": "Todas las Anteriores",
+      "puntos": 100,
+      "tema_id": 8
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 76,
+    "fields": {
+      "pregunta": "¿Cuál es el modelo económico actual de Bolivia?",
+      "respuestaCorrecta": "Modelo Económico Social Comunitario Productivo (MESCP)",
+      "respuestaIncorrecta1": "Modelo capitalista",
+      "respuestaIncorrecta2": "Modelo socialista",
+      "respuestaIncorrecta3": "Modelo Económico mixto",
+      "puntos": 100,
+      "tema_id": 8
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 77,
+    "fields": {
+      "pregunta": "¿Qué periodo duro la construcción de la Casa de la Moneda?",
+      "respuestaCorrecta": "Año 1572-1575",
+      "respuestaIncorrecta1": "Año 1550-1560",
+      "respuestaIncorrecta2": "Año 1573-1574",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 8
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 78,
+    "fields": {
+      "pregunta": "¿Cuál es la base principal de la Economia en Bolivia?",
+      "respuestaCorrecta": "Extracción y Exportación de Recursos Naturales",
+      "respuestaIncorrecta1": "Agricultura y Ganaderia",
+      "respuestaIncorrecta2": "Producción Artesanal",
+      "respuestaIncorrecta3": "Actividades de Turismo",
+      "puntos": 100,
+      "tema_id": 8
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 79,
+    "fields": {
+      "pregunta": "¿Qué paso en el periodo de 1841 a 1880 en Bolivia?",
+      "respuestaCorrecta": "La Crisis del Estado Boliviano",
+      "respuestaIncorrecta1": "La Hiperinflación en Bolivia",
+      "respuestaIncorrecta2": "La Construccion de la Casa de la Moneda",
+      "respuestaIncorrecta3": "La creacion del Primer Banco en Bolivia",
+      "puntos": 100,
+      "tema_id": 8
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 80,
+    "fields": {
+      "pregunta": "¿Cuál fue el primer Banco en Bolivia?",
+      "respuestaCorrecta": "Banco Central de Bolivia (BCB)",
+      "respuestaIncorrecta1": "Banco Nacional de Bolivia (BNB)",
+      "respuestaIncorrecta2": "Banco Unión",
+      "respuestaIncorrecta3": "Banco de Credito de Bolivia (BCP)",
+      "puntos": 100,
+      "tema_id": 8
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 81,
+    "fields": {
+      "pregunta": "¿En qué año llegaron los primeros Jesuitas a Bolivia?",
+      "respuestaCorrecta": "Año 1572",
+      "respuestaIncorrecta1": "Año 1565",
+      "respuestaIncorrecta2": "Año 1575",
+      "respuestaIncorrecta3": "Año 1580",
+      "puntos": 100,
+      "tema_id": 9
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 82,
+    "fields": {
+      "pregunta": "¿Cuáles son las Misiones Jesuitas en el Departamento de Santa Cruz?",
+      "respuestaIncorrecta1": "Misiones de Chiquitos",
+      "respuestaIncorrecta2": "Misiones de Moxos ",
+      "respuestaCorrecta": "Misiones de Chiquitos / Misiones de Moxos",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 9
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 83,
+    "fields": {
+      "pregunta": "¿Quiénes eran los Jesuitas que vinieron a Bolivia?",
+      "respuestaCorrecta": "Sacerdotes Catolicos",
+      "respuestaIncorrecta1": "Soldados Españoles",
+      "respuestaIncorrecta2": "Nobles Españoles",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 9
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 84,
+    "fields": {
+      "pregunta": "¿A qué se dedican actualmente la Región de la Chiquitania?",
+      "respuestaIncorrecta1": "Agricultura y Ganadería",
+      "respuestaIncorrecta2": "Artesanía",
+      "respuestaIncorrecta3": "Trabajo de Cueros y de los Tejidos",
+      "respuestaCorrecta": "Todas las Anteriores",
+      "puntos": 100,
+      "tema_id": 9
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 85,
+    "fields": {
+      "pregunta": "¿Cuál fue la primer universidad fundada por un Padre Jesuita?",
+      "respuestaIncorrecta1": "Universidad Mayor de San Simón de Cochabamba",
+      "respuestaIncorrecta2": "Universidad Mayor de San Andrés de La Paz",
+      "respuestaCorrecta": "Universidad Mayor Real y Pontificia San Francisco Xavier de Chuquisaca",
+      "respuestaIncorrecta3": "Universidad Autónoma Gabriel René Moreno de Santa Cruz de la Sierra",
+      "puntos": 100,
+      "tema_id": 9
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 86,
+    "fields": {
+      "pregunta": "¿Cuál fue la Primer Misión Jesuita de Chiquitos?",
+      "respuestaIncorrecta1": "Concepción",
+      "respuestaIncorrecta2": "San Miguel",
+      "respuestaCorrecta": "San Javier",
+      "respuestaIncorrecta3": "San Rafael",
+      "puntos": 100,
+      "tema_id": 9
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 87,
+    "fields": {
+      "pregunta": "¿Cuál fue la Primer Misión Jesuita de Moxos?",
+      "respuestaCorrecta": "Loreto",
+      "respuestaIncorrecta1": "Santa Ana",
+      "respuestaIncorrecta2": "Santísima Trinidad",
+      "respuestaIncorrecta3": "San Francisco Javier",
+      "puntos": 100,
+      "tema_id": 9
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 88,
+    "fields": {
+      "pregunta": "¿Qué dejaron los Jesuitas en Bolivia?",
+      "respuestaIncorrecta1": "Esculturas en Madera",
+      "respuestaIncorrecta2": "Murales",
+      "respuestaIncorrecta3": "Musica Barroca",
+      "respuestaCorrecta": "Todas las Anteriores",
+      "puntos": 100,
+      "tema_id": 9
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 89,
+    "fields": {
+      "pregunta": "¿Qué cultivaban los Jesuitas mientras estaban en Bolivia?",
+      "respuestaIncorrecta1": "Cosechas de Maiz",
+      "respuestaIncorrecta2": "Cultivaban Algodón",
+      "respuestaIncorrecta3": "Caña de Azucar y Hierba Mate",
+      "respuestaCorrecta": "Todas las Anteriores",
+      "puntos": 100,
+      "tema_id": 9
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 90,
+    "fields": {
+      "pregunta": "¿En qué año fueron expulsados los Jesuitas de Bolivia?",
+      "respuestaIncorrecta1": "Año 1770",
+      "respuestaIncorrecta2": "Año 1765",
+      "respuestaCorrecta": "Año 1767",
+      "respuestaIncorrecta3": "Año 1768",
+      "puntos": 100,
+      "tema_id": 9
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 91,
+    "fields": {
+      "pregunta": "¿En qué fecha fue creada la Primera Bandera Nacional?",
+      "respuestaIncorrecta1": "25 de Julio de 1826",
+      "respuestaCorrecta": "17 de Agosto de 1825",
+      "respuestaIncorrecta2": "5 de Noviembre de 1851",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 10
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 92,
+    "fields": {
+      "pregunta": "¿Durante el Gobierno de quien se creo el Primer Escudo Nacional?",
+      "respuestaIncorrecta1": "Antonio José de Sucre",
+      "respuestaIncorrecta2": "Andrés de Santa Cruz",
+      "respuestaCorrecta": "Simon Bolivar",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 10
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 93,
+    "fields": {
+      "pregunta": "¿Bajo que Gobierno fue creado el Segundo Escudo Nacional?",
+      "respuestaCorrecta": "Antonio José de Sucre",
+      "respuestaIncorrecta1": "Andrés de Santa Cruz",
+      "respuestaIncorrecta2": "Simón Bolivar",
+      "respuestaIncorrecta3": "José Ballivián",
+      "puntos": 100,
+      "tema_id": 10
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 94,
+    "fields": {
+      "pregunta": "¿La Flor de Kantuta en qué fecha fue proclamada Simbolo Patrio?",
+      "respuestaIncorrecta1": "17 de Agosto de 1825",
+      "respuestaCorrecta": "1 de Enero de 1924",
+      "respuestaIncorrecta2": "27 de Abril de 1990",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 10
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 95,
+    "fields": {
+      "pregunta": "¿En qué fecha fue creada la Segunda Bandera Nacional?",
+      "respuestaIncorrecta1": "17 de Agosto de 1825",
+      "respuestaIncorrecta2": "5 de Noviembre de 1851",
+      "respuestaCorrecta": "25 de Julio de 1826",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 10
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 96,
+    "fields": {
+      "pregunta": "¿En qué año y bajo que gobierno se realizo la última modificación del Escudo Nacional?",
+      "respuestaCorrecta": "Año 2009, Evo Morales Ayma",
+      "respuestaIncorrecta1": "Año 1961, Victor Paz Estenssoro",
+      "respuestaIncorrecta2": "Año 2004, Carlos Mesa Gisbert",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 10
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 97,
+    "fields": {
+      "pregunta": "¿Para quienes es importante usar la Escarapela en fechas Nacionales?",
+      "respuestaIncorrecta1": "Oficiales Militares",
+      "respuestaIncorrecta2": "Oficiales Policiales",
+      "respuestaIncorrecta3": "Instituciones Educativas",
+      "respuestaCorrecta": "Todas las Anteriores",
+      "puntos": 100,
+      "tema_id": 10
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 98,
+    "fields": {
+      "pregunta": "¿El Flor de Patujú en qué fecha fue proclamada Simbolo Patrio?",
+      "respuestaIncorrecta1": "17 de Agosto de 1825",
+      "respuestaIncorrecta2": "1 de Enero de 1924",
+      "respuestaCorrecta": "27 de Abril de 1990",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 10
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 99,
+    "fields": {
+      "pregunta": "¿En qué fecha fue creada la Actual Bandera Nacional?",
+      "respuestaIncorrecta1": "17 de Agosto de 1825",
+      "respuestaIncorrecta2": "25 de Julio de 1826",
+      "respuestaCorrecta": "5 de Noviembre de 1851",
+      "respuestaIncorrecta3": "Ninguna de las Anteriores",
+      "puntos": 100,
+      "tema_id": 10
+    }
+  },
+  {
+    "model": "profiles.pregunta",
+    "pk": 100,
+    "fields": {
+      "pregunta": "¿En qué año fue proclamada la Whipala un simbolo Nacional?",
+      "respuestaIncorrecta1": "Año 2005",
+      "respuestaCorrecta": "Año 2009",
+      "respuestaIncorrecta2": "Año 2012",
+      "respuestaIncorrecta3": "Año 2003",
+      "puntos": 100,
+      "tema_id": 10
+    }
+  }
+]
